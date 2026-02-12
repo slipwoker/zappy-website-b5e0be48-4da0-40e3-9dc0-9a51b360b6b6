@@ -1,0 +1,87 @@
+# מאור צעצועים — Generative Engine Optimization Map
+
+> A קמעונאות business.
+
+---
+
+## Pages
+
+### בית
+https://-b5e0be48.zappy5.app
+
+### אודות
+https://-b5e0be48.zappy5.app/about
+
+### אוספים
+https://-b5e0be48.zappy5.app/collections
+
+### צור קשר
+https://-b5e0be48.zappy5.app/contact
+
+### Products
+https://-b5e0be48.zappy5.app/products
+המוצרים שלנו - מאור צעצועים
+
+### Cart
+https://-b5e0be48.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-b5e0be48.zappy5.app/checkout
+תשלום
+
+### Login
+https://-b5e0be48.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-b5e0be48.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-b5e0be48.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-b5e0be48.zappy5.app/product/:slug
+פרטי המוצר - מאור צעצועים
+
+### Category
+https://-b5e0be48.zappy5.app/category/:slug
+מוצרים - מאור צעצועים
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b5e0be48.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b5e0be48.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b5e0be48.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מאור צעצועים
+מאור צעצועים is a business in the קמעונאות industry.
+
+## Target Audience
+- הורים לילדים צעירים
+- סבים וסבתות מעניקי מתנות
+- מחנכים ומעונות יום
+
+## Industry
+קמעונאות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-b5e0be48.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-b5e0be48.zappy5.app/robots.txt
